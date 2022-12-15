@@ -107,7 +107,10 @@
     "url": "https://www.zhihu.com/question/536837886",
     "title": "高考考的不理想，读大专还是直接打工？"
   },
-  { "url": "https://www.zhihu.com/question/536828678", "title": "能讲讲你的遗憾吗？" },
+  {
+    "url": "https://www.zhihu.com/question/536828678",
+    "title": "能讲讲你的遗憾吗？"
+  },
   {
     "url": "https://www.zhihu.com/question/282627359",
     "title": "你写过哪些实用的Python代码？"
@@ -196,7 +199,10 @@
     "url": "https://www.zhihu.com/question/450182422",
     "title": "都说不要给婴儿辅食中添加糖，但是宝宝爱吃的水果基本都是甜的，为什么又可以吃水果？"
   },
-  { "url": "https://www.zhihu.com/question/477188555", "title": "HR 最怕听到哪句话？" },
+  {
+    "url": "https://www.zhihu.com/question/477188555",
+    "title": "HR 最怕听到哪句话？"
+  },
   {
     "url": "https://www.zhihu.com/question/535580527",
     "title": "如何看待中建某局公司周六晚上突击检查项目办公室，发现员工 PS5 游戏机，并通报处罚？"
@@ -701,7 +707,10 @@
     "url": "https://www.zhihu.com/question/535814883",
     "title": "如果再铺一次瓷砖，你会有哪些坚持？"
   },
-  { "url": "https://www.zhihu.com/question/38400762", "title": "大众cc是一辆怎样的车？" },
+  {
+    "url": "https://www.zhihu.com/question/38400762",
+    "title": "大众cc是一辆怎样的车？"
+  },
   {
     "url": "https://www.zhihu.com/question/536371695",
     "title": "《光与夜之恋》布朗云事件主角发声，如何看待这一天的各种反转？"
@@ -738,8 +747,14 @@
     "url": "https://www.zhihu.com/question/536683967",
     "title": "人活着、那么应该怎么去面对一些不如意？应该怎么去原谅自己和原谅他人？怎么做到处之泰然、波澜不惊？"
   },
-  { "url": "https://www.zhihu.com/question/381896673", "title": "最近有什么人生感悟吗？" },
-  { "url": "https://www.zhihu.com/question/284206141", "title": "你是怎么变自律的？" },
+  {
+    "url": "https://www.zhihu.com/question/381896673",
+    "title": "最近有什么人生感悟吗？"
+  },
+  {
+    "url": "https://www.zhihu.com/question/284206141",
+    "title": "你是怎么变自律的？"
+  },
   {
     "url": "https://www.zhihu.com/question/536375720",
     "title": "《梦华录》真有网上说的那么好看吗？"
@@ -868,10 +883,16 @@
     "url": "https://www.zhihu.com/question/535023423",
     "title": "如何评价沈腾和黄磊在《向往的生活  6》第四期的互动？"
   },
-  { "url": "https://www.zhihu.com/question/36561816", "title": "《琅琊榜》被过誉了吗？" },
+  {
+    "url": "https://www.zhihu.com/question/36561816",
+    "title": "《琅琊榜》被过誉了吗？"
+  },
   {
     "url": "https://www.zhihu.com/question/536167636",
     "title": "如何评价《警察荣誉》里曹建军这个人物形象?"
   },
-  { "url": "https://www.zhihu.com/question/67380421", "title": "有哪些公认很帅的车？" }
+  {
+    "url": "https://www.zhihu.com/question/67380421",
+    "title": "有哪些公认很帅的车？"
+  }
 ]

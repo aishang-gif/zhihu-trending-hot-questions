@@ -275,7 +275,10 @@
     "url": "https://www.zhihu.com/question/569215117",
     "title": "你的大学是你高三时候憧憬的样子吗?"
   },
-  { "url": "https://www.zhihu.com/question/569203101", "title": "在大学独来独往可以吗？" },
+  {
+    "url": "https://www.zhihu.com/question/569203101",
+    "title": "在大学独来独往可以吗？"
+  },
   {
     "url": "https://www.zhihu.com/question/422512191",
     "title": "男生都 26 岁了还买 PS5 ，值得吗?"
@@ -392,7 +395,10 @@
     "url": "https://www.zhihu.com/question/527997396",
     "title": "你亲身经历过的一场暗恋是怎么样的呢？"
   },
-  { "url": "https://www.zhihu.com/question/21757305", "title": "胜率代表了什么？" },
+  {
+    "url": "https://www.zhihu.com/question/21757305",
+    "title": "胜率代表了什么？"
+  },
   {
     "url": "https://www.zhihu.com/question/569356482",
     "title": "为什么线上线下推销手机都要强调内存大小呢？内存大就能用得久吗？"
@@ -573,13 +579,22 @@
     "url": "https://www.zhihu.com/question/568353992",
     "title": "如何评价《亚当斯一家》的真人衍生剧《星期三》？"
   },
-  { "url": "https://www.zhihu.com/question/564481356", "title": "时间为什么能治愈一切？" },
+  {
+    "url": "https://www.zhihu.com/question/564481356",
+    "title": "时间为什么能治愈一切？"
+  },
   {
     "url": "https://www.zhihu.com/question/563127603",
     "title": "快充技术为何不可以应用到游戏本上?"
   },
-  { "url": "https://www.zhihu.com/question/21616926", "title": "哪个牌子的酸奶比较好？" },
-  { "url": "https://www.zhihu.com/question/565645096", "title": "初二使劲学还有希望吗?" },
+  {
+    "url": "https://www.zhihu.com/question/21616926",
+    "title": "哪个牌子的酸奶比较好？"
+  },
+  {
+    "url": "https://www.zhihu.com/question/565645096",
+    "title": "初二使劲学还有希望吗?"
+  },
   {
     "url": "https://www.zhihu.com/question/568949425",
     "title": "毕业工作了到底是攒钱先买车还是先买房呢？"
@@ -628,8 +643,14 @@
     "url": "https://www.zhihu.com/question/568180706",
     "title": "老公熬夜看世界杯，老婆要不要「打不过就加入」？"
   },
-  { "url": "https://www.zhihu.com/question/63668642", "title": "如何坚定自己内心的选择？" },
-  { "url": "https://www.zhihu.com/question/563706092", "title": "读职高好还是高中好？" },
+  {
+    "url": "https://www.zhihu.com/question/63668642",
+    "title": "如何坚定自己内心的选择？"
+  },
+  {
+    "url": "https://www.zhihu.com/question/563706092",
+    "title": "读职高好还是高中好？"
+  },
   {
     "url": "https://www.zhihu.com/question/340140889",
     "title": "有什么你去西班牙才知道的事情？"
@@ -686,5 +707,8 @@
     "url": "https://www.zhihu.com/question/561912218",
     "title": "如果有下辈子，你愿意当个啥？"
   },
-  { "url": "https://www.zhihu.com/question/337904283", "title": "为什么要学心理学?" }
+  {
+    "url": "https://www.zhihu.com/question/337904283",
+    "title": "为什么要学心理学?"
+  }
 ]

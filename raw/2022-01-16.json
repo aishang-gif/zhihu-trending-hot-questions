@@ -151,7 +151,10 @@
     "url": "https://www.zhihu.com/question/511767124",
     "title": "张文宏称「奥密克戎毒性不可忽略，仍然相信这可能是新冠大流行的最后一个寒冬」，有哪些值得关注的信息？"
   },
-  { "url": "https://www.zhihu.com/question/296071288", "title": "学审计的人有多可怕？" },
+  {
+    "url": "https://www.zhihu.com/question/296071288",
+    "title": "学审计的人有多可怕？"
+  },
   {
     "url": "https://www.zhihu.com/question/511701533",
     "title": "怎么快点忘记一个很爱的人 ？"
@@ -224,7 +227,10 @@
     "url": "https://www.zhihu.com/question/511517822",
     "title": "孙杨也开始直播带货了，有人质疑奥运冠军直播带货行为，你认可这种观点吗？"
   },
-  { "url": "https://www.zhihu.com/question/500631933", "title": "职场该不该锋芒毕露？" },
+  {
+    "url": "https://www.zhihu.com/question/500631933",
+    "title": "职场该不该锋芒毕露？"
+  },
   {
     "url": "https://www.zhihu.com/question/511715203",
     "title": "1 月 15 日北京新增 1 例新冠肺炎确诊病例，轨迹涉及超市、咖啡店、公交等，还有哪些信息值得关注？"
@@ -245,7 +251,10 @@
     "url": "https://www.zhihu.com/question/511795850",
     "title": "NBA 21-22赛季 湖人96：133掘金，詹姆斯25+9+2，如何评价这场比赛？"
   },
-  { "url": "https://www.zhihu.com/question/503406861", "title": "什么才是不成熟的表现？" },
+  {
+    "url": "https://www.zhihu.com/question/503406861",
+    "title": "什么才是不成熟的表现？"
+  },
   {
     "url": "https://www.zhihu.com/question/485258505",
     "title": "历代选秀节目能打 90 分以上的舞台作品有哪些？"
@@ -326,7 +335,10 @@
     "url": "https://www.zhihu.com/question/511792989",
     "title": "智商是不是比努力更重要？"
   },
-  { "url": "https://www.zhihu.com/question/496998318", "title": "有没有古言甜宠文？" },
+  {
+    "url": "https://www.zhihu.com/question/496998318",
+    "title": "有没有古言甜宠文？"
+  },
   {
     "url": "https://www.zhihu.com/question/509813116",
     "title": "特别讨厌一个同事，要不要辞职？"
@@ -475,8 +487,14 @@
     "url": "https://www.zhihu.com/question/32703639",
     "title": "为什么很多Python开发者写GUI不用Tkinter，而要选择PyQt和wxPython或其他？"
   },
-  { "url": "https://www.zhihu.com/question/364197541", "title": "有哪些万能的作文题目？" },
-  { "url": "https://www.zhihu.com/question/325965131", "title": "猪肉怎么做好吃？" },
+  {
+    "url": "https://www.zhihu.com/question/364197541",
+    "title": "有哪些万能的作文题目？"
+  },
+  {
+    "url": "https://www.zhihu.com/question/325965131",
+    "title": "猪肉怎么做好吃？"
+  },
   {
     "url": "https://www.zhihu.com/question/511305945",
     "title": "赛博朋克时代的生活会是什么样子？"
@@ -541,7 +559,10 @@
     "url": "https://www.zhihu.com/question/511245937",
     "title": "5500预算有没有推荐的相机？"
   },
-  { "url": "https://www.zhihu.com/question/506982384", "title": "有哪些很励志的文案？" },
+  {
+    "url": "https://www.zhihu.com/question/506982384",
+    "title": "有哪些很励志的文案？"
+  },
   {
     "url": "https://www.zhihu.com/question/447942198",
     "title": "有没有半个小时就可以看完的小甜文？"
@@ -614,7 +635,10 @@
     "url": "https://www.zhihu.com/question/511684143",
     "title": "2022 LPL 春季赛UP 1:2 TES，如何评价这场比赛？"
   },
-  { "url": "https://www.zhihu.com/question/508900071", "title": "健身最忌讳什么？" },
+  {
+    "url": "https://www.zhihu.com/question/508900071",
+    "title": "健身最忌讳什么？"
+  },
   {
     "url": "https://www.zhihu.com/question/511193497",
     "title": "被批评的时候第一反应就是想着如何反驳，这正常吗？"
@@ -675,5 +699,8 @@
     "url": "https://www.zhihu.com/question/511590823",
     "title": "如何评价王中林院士拓展麦克斯韦方程组？对物理学理论有多大价值？"
   },
-  { "url": "https://www.zhihu.com/question/40722145", "title": "虾怎么做最好吃？" }
+  {
+    "url": "https://www.zhihu.com/question/40722145",
+    "title": "虾怎么做最好吃？"
+  }
 ]

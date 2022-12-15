@@ -127,7 +127,10 @@
     "url": "https://www.zhihu.com/question/510238331",
     "title": "忘不掉一个人，应该怎么办?"
   },
-  { "url": "https://www.zhihu.com/question/35165099", "title": "有什么相见恨晚的茶？" },
+  {
+    "url": "https://www.zhihu.com/question/35165099",
+    "title": "有什么相见恨晚的茶？"
+  },
   {
     "url": "https://www.zhihu.com/question/494543455",
     "title": "一个穷人活在周围都是富人的世界里面可以变富吗？"
@@ -204,7 +207,10 @@
     "url": "https://www.zhihu.com/question/306126152",
     "title": "快过年了，想送女朋友新年礼物，送什么比较好？"
   },
-  { "url": "https://www.zhihu.com/question/441977039", "title": "高中地理难在哪里？" },
+  {
+    "url": "https://www.zhihu.com/question/441977039",
+    "title": "高中地理难在哪里？"
+  },
   {
     "url": "https://www.zhihu.com/question/509349874",
     "title": "如果《鬼灭之刃》再添加个呼吸式，你会添加什么呼吸式？为什么？"
@@ -377,7 +383,10 @@
     "url": "https://www.zhihu.com/question/20024583",
     "title": "为什么北方的小年是腊月二十三，而南方的小年是腊月二十四？"
   },
-  { "url": "https://www.zhihu.com/question/29941986", "title": "如何选购降噪耳机？" },
+  {
+    "url": "https://www.zhihu.com/question/29941986",
+    "title": "如何选购降噪耳机？"
+  },
   {
     "url": "https://www.zhihu.com/question/513078147",
     "title": "调查显示，高校毕业生纷纷将国企和公务员作为求职首选，年轻人为什么偏爱体制内工作？"
@@ -706,13 +715,22 @@
     "url": "https://www.zhihu.com/question/513089020",
     "title": "北京要求购买退热、止咳、抗感染、治疗咽干咽痛四类药品人员需 72 小时内核检，还有哪些注意事项？"
   },
-  { "url": "https://www.zhihu.com/question/449802285", "title": "你们在上海收入多少？" },
-  { "url": "https://www.zhihu.com/question/478570486", "title": "窦唯到底厉害在哪里？" },
+  {
+    "url": "https://www.zhihu.com/question/449802285",
+    "title": "你们在上海收入多少？"
+  },
+  {
+    "url": "https://www.zhihu.com/question/478570486",
+    "title": "窦唯到底厉害在哪里？"
+  },
   {
     "url": "https://www.zhihu.com/question/512347012",
     "title": "如何评价富士摄影大赛获奖作品?"
   },
-  { "url": "https://www.zhihu.com/question/20326697", "title": "推荐算法有哪些？" },
+  {
+    "url": "https://www.zhihu.com/question/20326697",
+    "title": "推荐算法有哪些？"
+  },
   {
     "url": "https://www.zhihu.com/question/441230460",
     "title": "有没有什么不贵，但是买了很有新年感觉的东西？"
@@ -829,12 +847,18 @@
     "url": "https://www.zhihu.com/question/38497740",
     "title": "雷克萨斯的保养真的是免费的吗？"
   },
-  { "url": "https://www.zhihu.com/question/486582866", "title": "有没有关于失望的文案？" },
+  {
+    "url": "https://www.zhihu.com/question/486582866",
+    "title": "有没有关于失望的文案？"
+  },
   {
     "url": "https://www.zhihu.com/question/512572823",
     "title": "我快被孩子的学习逼疯了，我该怎么办？"
   },
-  { "url": "https://www.zhihu.com/question/512187972", "title": "山东大年三十吃什么？" },
+  {
+    "url": "https://www.zhihu.com/question/512187972",
+    "title": "山东大年三十吃什么？"
+  },
   {
     "url": "https://www.zhihu.com/question/508070397",
     "title": "有哪些新年礼物清单，可以直接拿来「抄作业」？"
@@ -907,5 +931,8 @@
     "url": "https://www.zhihu.com/question/491736341",
     "title": "RTX 3070 即将跌破 6000 元，值得入手吗？"
   },
-  { "url": "https://www.zhihu.com/question/63007253", "title": "赚钱的本质是什么？" }
+  {
+    "url": "https://www.zhihu.com/question/63007253",
+    "title": "赚钱的本质是什么？"
+  }
 ]
