@@ -15,29 +15,38 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 31 2024 10:54:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 31 2024 11:28:07 GMT+0800 (China Standard Time) -->
 
 1. [欧盟终裁决定对中国电动汽车加征为期 5 年的反补贴税，此举将为我国带来哪些影响？](https://www.zhihu.com/question/2553925944)
 1. [如何看待中科院院士刘嘉麒说「科学不是靠 8 小时上班研究出来的」？](https://www.zhihu.com/question/2281066992)
-1. [如何看待女星桥本环奈被曝职场霸凌，至少有 8 位经纪人因此辞职？霸凌事件会对她的事业有哪些影响？](https://www.zhihu.com/question/2589052202)
 1. [如果 S14 最终决战 T1 赢了，T1 战队将达到什么样的历史高度？](https://www.zhihu.com/question/2283462949)
-1. [如何评价尾田公布的藤虎与绿牛的过去呢？](https://www.zhihu.com/question/2544243638)
+1. [如何看待女星桥本环奈被曝职场霸凌，至少有 8 位经纪人因此辞职？霸凌事件会对她的事业有哪些影响？](https://www.zhihu.com/question/2589052202)
 1. [24-25 赛季NBA常规赛湖人110:134骑士，詹姆斯26分，布朗尼生涯首分，如何评价这场比赛？](https://www.zhihu.com/question/2651435815)
+1. [如何评价尾田公布的藤虎与绿牛的过去呢？](https://www.zhihu.com/question/2544243638)
 1. [正确顺序明明是水火金木土（相克）/金水木火土（相生），为什么人们总是说成金木水火土呢？](https://www.zhihu.com/question/2094527621)
+1. [台风「康妮」加强为超强台风级，上海将遇1981年以来11月最大降雨，台风形成原因有哪些？该如何应对？](https://www.zhihu.com/question/2328335031)
 1. [如何评价大马丁获得 23/24 赛季雅辛奖，两度蝉联？](https://www.zhihu.com/question/2417283061)
+1. [如何评价朱开直播时直言「Zeus这两年在下滑，Bin这两年是在进步」？](https://www.zhihu.com/question/2548398436)
+1. [有哪些小说或影视作品中的情节是非常有预见性的？](https://www.zhihu.com/question/2336576033)
+1. [请问樊振东现在还是巅峰期吗？还能维持多久？](https://www.zhihu.com/question/2562527721)
+1. [双十一迟迟没有下单省电空调，到底是越早越优惠，还是再等等？](https://www.zhihu.com/question/2453740708)
 1. [如何看待《心动的信号》第七季孙乐言直接找翁青雅对峙的行为？](https://www.zhihu.com/question/2382203079)
 1. [“不落因果”和“不昧因果”的区别是什么？](https://www.zhihu.com/question/2553230164)
-1. [有哪些小说或影视作品中的情节是非常有预见性的？](https://www.zhihu.com/question/2336576033)
-1. [仙舟“武魁”飞霄将军与“虚无”令使黄泉有一战之力吗？](https://www.zhihu.com/question/666847533)
+1. [乱破为什么被称为失败品？这个身体数据在骑士棚、DC、漫威可以算作什么水平？](https://www.zhihu.com/question/1897590290)
+1. [如果一天让你工作15个小时，你会去吗？](https://www.zhihu.com/question/2394196388)
 1. [如何评价刘学义在古装剧《春花焰》中的表现？](https://www.zhihu.com/question/895959090)
+1. [如何评价明朝方孝孺？](https://www.zhihu.com/question/353762343)
+1. [民间「一孕傻三年」的说法是真的吗？有文章称「生孩子会使女性更聪明」，有科学依据吗？](https://www.zhihu.com/question/2564795267)
 1. [《如懿传》这部剧中有哪些情节堪称「逆天」？](https://www.zhihu.com/question/664259367)
 1. [明明不开车为啥还被称为副驾驶？](https://www.zhihu.com/question/654787888)
+1. [仙舟“武魁”飞霄将军与“虚无”令使黄泉有一战之力吗？](https://www.zhihu.com/question/666847533)
 1. [AI如何辅助编程？](https://www.zhihu.com/question/646628593)
 1. [为什么很多用户买了车却不买车位？](https://www.zhihu.com/question/581546787)
 1. [如何评价 10 月 30 日发布会的 MacBook Pro M4，有哪些亮点值得关注？](https://www.zhihu.com/question/2620233754)
 1. [短线交易的本质是什么？](https://www.zhihu.com/question/659640378)
-1. [民间「一孕傻三年」的说法是真的吗？有文章称「生孩子会使女性更聪明」，有科学依据吗？](https://www.zhihu.com/question/2564795267)
 1. [历史上女人你喜欢谁？不考虑相貌因素，是什么特点值得你欣赏？](https://www.zhihu.com/question/55579420)
+1. [为什么机器人研究了几十年，还是给人感觉没有太大进展？](https://www.zhihu.com/question/22056195)
+1. [电视剧《潜伏》中你最喜欢哪个角色？](https://www.zhihu.com/question/338773137)
 1. [S14 决赛 T1 获得优先选边权并选择蓝色方，这会对决赛 BO5 产生哪些影响？](https://www.zhihu.com/question/2555581649)
 1. [你们所理解的契约精神是什么样子的，如何看出一个人是否具有契约精神？](https://www.zhihu.com/question/22812309)
 1. [怎么改善自己的物品收集「囤积症」？](https://www.zhihu.com/question/923028859)
@@ -93,9 +102,7 @@
 1. [为什么现在很多养宠物的人会喜欢将自己称为宠物的爸爸/妈妈呢？](https://www.zhihu.com/question/1725713018)
 1. [“鱼越大，鱼就越小”的推理过程中犯了什么错误?](https://www.zhihu.com/question/603673833)
 1. [24-25 赛季NBA常规赛鹈鹕 106:124 勇士，如何评价这场比赛？](https://www.zhihu.com/question/2548276122)
-1. [双十一迟迟没有下单省电空调，到底是越早越优惠，还是再等等？](https://www.zhihu.com/question/2453740708)
 1. [警察传唤可以不去吗，不去有什么后果？](https://www.zhihu.com/question/661290111)
-1. [电视剧《潜伏》中你最喜欢哪个角色？](https://www.zhihu.com/question/338773137)
 
 <!-- END -->
 
